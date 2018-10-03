@@ -120,7 +120,5 @@
 
 5.마인드맵 사진
 
-![KakaoTalk_20181002_142651760](C:\Users\고다현\Desktop\KakaoTalk_20181002_142651760.jpg)
-
-
+![kakaotalk_20181002_142651760](https://user-images.githubusercontent.com/43772750/46426602-9cecfc80-c72e-11e8-8615-2fb46f3d410e.jpg)
 
