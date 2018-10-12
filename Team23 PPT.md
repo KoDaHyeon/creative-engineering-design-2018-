@@ -2,7 +2,8 @@
 ### 시장조사
 ---
   1.1. 조별토의 및 마인드맵 작성
-![33](https://user-images.githubusercontent.com/43811244/46408022-b7819e80-c74b-11e8-9441-cbf9e1089915.jpg)
+![5](https://user-images.githubusercontent.com/43813471/46873217-fb258800-ce70-11e8-96af-63e1404dafca.png)
+
 - 구글 플레이 
 - 앱스토어 
 ---
